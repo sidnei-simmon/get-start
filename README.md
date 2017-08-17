@@ -1,5 +1,6 @@
-Hello Git ! \n
-Uma pequena alteração \n
-Mais uma linha \n
-Parece que ele não reconhece quebra de linhas. \n
+Hello Git !
+Uma pequena alteração
+Mais uma linha
+Parece que ele não reconhece quebra de linhas.
 Será que irá reconhecer agora?
+Estava olhando no lugar errado, não precisa de quebra.
